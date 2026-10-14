@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/logo.png" alt="VATSIM Türkiye" width="132">
+  <img src="logo.png" alt="VATSIM Türkiye" width="132">
 </p>
 
 <h1 align="center">VATSIM Türkiye</h1>
